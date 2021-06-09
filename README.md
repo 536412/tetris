@@ -1,1 +1,1 @@
-Tetris made with a REactjs base
+Tetris made with a Reactjs base
